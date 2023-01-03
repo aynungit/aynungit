@@ -1,8 +1,9 @@
- ### Hi there 👋, Myself  Aynun naher mow 👏
-#### 👑 I am Web Developer 🖊️ Love to write code 🎤 Like to share my knowledge
 ![👑 I am Web Developer 🖊️ Love to write code 🎤 Like to share my knowledge]( https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/271897251_328795339135074_2947429928516517571_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=w1L8isz41WoAX8fODJ3&_nc_ht=scontent.fdac157-1.fna&oh=00_AfDvmZ2pOYXTORqD1xQTEcG4UcuxQDnq9ftPStu43mlewg&oe=63B88D64)
 
-’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
+# Hi there 👋, Myself  Aynun naher mow 👏
+### 👑 I am Web Developer 🖊️ Love to write code 🎤 Like to share my knowledge
+
+I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
 
 Skills: ✅ WordPress ✅ JavaScript ✅ PHP ✅ HTML5 / CSS3 / SASS / Bootstrap ✅ Photoshop / Illustrator

@@ -1,6 +1,6 @@
 ![👑 I am Web Developer 🖊️ Love to write code 🎤 Like to share my knowledge]( https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/271897251_328795339135074_2947429928516517571_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=w1L8isz41WoAX8fODJ3&_nc_ht=scontent.fdac157-1.fna&oh=00_AfDvmZ2pOYXTORqD1xQTEcG4UcuxQDnq9ftPStu43mlewg&oe=63B88D64)
 
-## Hi there 👋, Myself  Aynun naher mow ✨
+## Hi✨✨✨, Myself  Aynun naher mow ✨
 ### 👑 I am Web Developer
 🖊️ Love to write code 
 🎤 Like to share my knowledge
